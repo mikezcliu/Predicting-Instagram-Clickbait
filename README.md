@@ -6,3 +6,6 @@ For a more detailed report, please refer to https://medium.com/@mike_liu
 
 Included: 
 
+Insta.ipynb: A Jupyter Notebook detailing the code and outputs for the project
+
+Instagram.cv: the dataset used in the analysis. source: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DEZMRA 
